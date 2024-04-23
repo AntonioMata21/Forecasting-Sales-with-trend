@@ -24,6 +24,9 @@ Open each notebook in Jupyter Notebook and run the cells.
 Dataset
 The dataset for this project is available at: https://www.kaggle.com/competitions/m5-forecasting-accuracy
 We use three subsets of time series,established as follows: 
-a) subset of 300 random time series from the M5 Competition dataset,
+
+a) subset of 300 random time series from the M5 Competition dataset
+
 b) subset of 130 series classified with trend with a threshold equal to 3 
+
 c) subset of 50 series classified with trend with a threshold equal to 5.
