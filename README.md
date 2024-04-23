@@ -1,14 +1,19 @@
 This project explores various methods for Forecasting Sales with Trend. Each method is implemented in a separate Jupyter Notebook. The dataset used for this project is available at Kaggle in M5 Competiton page.
 
 Notebooks to Forecast 300 random time series
+
 Notebook 1: ARIMA : arima-300s-m5.ipynb
+
 Notebook 2: LightGBM : lgbm-300s-m5.ipynb
+
 Notebook 3: LSTM: lstm-300s-m5.ipynb
 
 Notebooks to Forecast time series with trend
 
 Notebook 4: ARIMA : arima-trend-m5.ipynb
+
 Notebook 5: LightGBM : lgbm-trend-m5.ipynb
+
 Notebook 6: LSTM: lstm-trend-m5.ipynb
 
 Instructions
